@@ -15,7 +15,9 @@ let isLoggedIn = true
 // null => standalone value
 // undefined => 
 // symbol => unique
+
 // object
 
-console.log(typeof "AYUSH");
-console.log(typeof null);
+console.log(typeof "AYUSH"); //string
+console.log(typeof undefined); //undefined
+console.log(typeof null); //object
